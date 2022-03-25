@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{3A9BAE8D-413F-9D03-AACA-C5B9F111D43E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyThirdPerson",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
